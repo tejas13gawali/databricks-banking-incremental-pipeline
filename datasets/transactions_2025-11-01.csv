@@ -1,0 +1,4 @@
+transaction_id,account_id,txn_date,amount,currency,txn_type,status,created_at
+T0001,A1001,2025-11-01T09:15:00,250.00,INR,debit,completed,2025-11-01T09:15:05
+T0002,A1002,2025-11-01T09:20:00,1250.50,INR,credit,completed,2025-11-01T09:20:02
+T0003,A1003,2025-11-01T10:00:00,5000.00,INR,debit,failed,2025-11-01T10:00:10
